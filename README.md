@@ -3,11 +3,10 @@
 ## Dynamic Rich Menu : 如何設計可以動態切換的Rich Menu
 
 此範例展示如何動態切換Rich Menu，讓單一/特定用戶可以享有超過6格的多層選單
-
+<img src='https://i.imgur.com/iyJJl1Y.png' />
 
 ### 注意事項
- 
-
+ 請先執行 default.aspx 頁面上的 code，先建立 rich menu
 
 相關資源 
 ===
