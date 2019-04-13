@@ -5,8 +5,11 @@
 此範例展示如何動態切換Rich Menu，讓單一/特定用戶可以享有超過6格的多層選單
 <img src='https://i.imgur.com/iyJJl1Y.png' />
 
+### Live Demo 範例：
+<img src='https://i.imgur.com/4A53agc.png' />
+
 ### 注意事項
- 請先執行 default.aspx 頁面上的 code，先建立 rich menu
+ 請先執行 default.aspx 頁面上的 code，先建立 rich menu，才能夠使用WebHook的切換功能
 
 相關資源 
 ===
