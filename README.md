@@ -18,7 +18,7 @@ https://github.com/isdaviddong/Linebot-Demo-DynamicRichMenu.git
 
 4. 佈署此專案至 IIS 伺服器或 Azure WebSite 
 or
-4. 使用Ngrok模擬伺服器
+   使用Ngrok模擬伺服器
 5. 取得WebHook URL更新你的LINE Bot Messaging後台WebHook
 
 完成後即可測試。
