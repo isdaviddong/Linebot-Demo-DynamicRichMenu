@@ -15,6 +15,7 @@ https://github.com/isdaviddong/Linebot-Demo-DynamicRichMenu.git
 3. 請先運行此專案，並執行 default.aspx 頁面上的 code，依照畫面指示的操作步驟，先建立 rich menu，才能夠使用WebHook的切換功能
    
 ![](https://i.imgur.com/OreYpGX.png)
+
 4. 佈署此專案至 IIS 伺服器或 Azure WebSite 
 or
 4. 使用Ngrok模擬伺服器
