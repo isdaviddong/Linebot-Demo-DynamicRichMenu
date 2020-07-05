@@ -61,7 +61,7 @@ namespace Demo_DynamicRichMenu
             var MenuId = ViewState["menuid"].ToString();
             //設定預設選單
             isRock.LineBot.Utility.SetDefaultRichMenu(MenuId, channelAccessToken);
-            Response.Write("done, now you can check your bot's menu.");
+            Response.Write("done, now you can check your bot's rich menu.");
         }
 
         protected void Button_DEL_Click(object sender, EventArgs e)
